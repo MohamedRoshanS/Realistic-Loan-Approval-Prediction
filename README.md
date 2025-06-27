@@ -4,7 +4,6 @@ A full-stack AI-powered web application that predicts loan approval decisions us
 
 ## 📸 Demo
 - **Live App**: [mrloanpredictor.vercel.app](https://mrloanpredictor.vercel.app)
-- **Backend API**: [mrloanpredictor.onrender.com](https://mrloanpredictor.onrender.com)
 
 ## 🧠 Features
 - ✅ Micro-Level Prediction using applicant data
